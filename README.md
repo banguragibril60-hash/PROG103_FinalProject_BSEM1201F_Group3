@@ -19,8 +19,11 @@ An open-source Clinic Queue Management System built in Python using Tkinter. Fea
 | Student Name | Student ID | Core Project Role | GitHub Username |
 
 | Gibril Bangura | `905005708` | UI Design & Interface Architecture | @banguragibril |
+
 | Sharon Mary Koroma| `905006201` | Input Validation & Data Serialization | @ramathasharon |
+
 | Abdul Aziz Sesay | `905005987` | Security Masking & Compliance Documentation | @zizcodes2025 |
+
 
 ---
 
