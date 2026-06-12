@@ -39,7 +39,7 @@ This Clinic Queue Management System is an open-source administrative desktop app
 
 ---
 
-##  Advanced Architectural Layout & Quality (Section 8)
+##  Advanced Architectural Layout & Quality
 To meet professional standard workflows, the architecture highlights several core engineering principles:
 
 * **Separation of GUI and Logic:** The system architecture is completely decoupled. `clinic_queue_system.py` handles the presentation layer and GUI controls exclusively, while `backend.py` isolates data manipulation, record serialization, and input sanitation functions.
@@ -48,7 +48,7 @@ To meet professional standard workflows, the architecture highlights several cor
 
 ---
 
-##  Data, Privacy & Compliance Framework (Section 7)
+##  Data, Privacy & Compliance Framework 
 This application was engineered with conscious adherence to modern digital healthcare data management baselines:
 
 ### 1. Data Accessibility
