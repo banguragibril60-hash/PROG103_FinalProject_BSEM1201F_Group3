@@ -1,3 +1,4 @@
+
 # PROG103_FinalProject_BSEM1201F_Group3
 An open-source Clinic Queue Management System built in Python using Tkinter. Features robust client-side input validation, architectural separation of GUI and business logic, secure local JSON data interoperability, and an administrative privacy-masked authentication system. Final Project for PROG103.
 
@@ -63,10 +64,22 @@ To protect administrative access from "shoulder surfing" in high-traffic clinica
 ### 4. Ethical Use of User Data
 Patient medical data is handled under strict ethical constraints. Records are retained strictly locally on internal clinic storage volumes rather than being broadcasted across unencrypted external public networks, mitigating external data exposure risks.
 
-## 5. Tools and tech infrastructure/ software used include:
+### 5. Tools and tech infrastructure/ software used include:
 IDE/ Pycharm with association of python 3.13
 Tkinter
  And repository via Github 
+
+### Screenshorts of the bash terminal operation
+<img width="1320" height="379" alt="Screenshot 2026-06-11 235319" src="https://github.com/user-attachments/assets/450727db-5f97-45c4-ba96-b3b2a255193a" />
+
+<img width="1657" height="855" alt="Screenshot 2026-06-11 235501" src="https://github.com/user-attachments/assets/7b759719-c680-4246-8fbc-58faca560696" />
+
+<img width="1206" height="861" alt="Screenshot 2026-06-12 000218" src="https://github.com/user-attachments/assets/120fd2f9-d89e-4869-8893-742349bd7af9" />
+
+<img width="1467" height="810" alt="Screenshot 2026-06-12 000530" src="https://github.com/user-attachments/assets/17da68d6-ab41-49ec-97f1-7d1c5561ad4c" />
+
+<img width="1200" height="391" alt="Screenshot 2026-06-12 000637" src="https://github.com/user-attachments/assets/a1002589-db66-40df-90a3-379dc5226e9e" />
+
 ---
 ##  Installation & Setup
 1. Clone this repository to your local system.
