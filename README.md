@@ -63,12 +63,17 @@ To protect administrative access from "shoulder surfing" in high-traffic clinica
 ### 4. Ethical Use of User Data
 Patient medical data is handled under strict ethical constraints. Records are retained strictly locally on internal clinic storage volumes rather than being broadcasted across unencrypted external public networks, mitigating external data exposure risks.
 
+## 5. Tools and tech infrastructure/ software used include:
+IDE/ Pycharm with association of python 3.13
+Tkinter
+ And repository via Github 
 ---
-
 ##  Installation & Setup
 1. Clone this repository to your local system.
-2. Ensure you have Python 3.x installed.
-3. Make sure the `icons/` asset folder resides in the root directory.
-4. Launch the application by executing the interface script:
+2. using this command and link precisely:
+3. git clone https://github.com/banguragibril60-hash/PROG103_FinalProject_BSEM1201F_Group3.git
+4. Ensure you have Python 3.x installed.
+5. Make sure the `icons/` asset folder resides in the root directory.
+6. Launch the application by executing the interface script:
    ```bash
    python clinic_queue_system.py
